@@ -87,8 +87,7 @@ This dashboard helps organizations:
 
  📷 Dashboard Preview
 
-![Dashboard Preview] (https://github.com/pushpakkk44/FUTURE_DS_03/blob/main/Dashboard.png?raw=true)
-
+![Dashboard](https://github.com/pushpakkk44/FUTURE_DS_03/blob/main/Dashboard.png?raw=true)
 
 📚 Conclusion
 
