@@ -87,7 +87,7 @@ This dashboard helps organizations:
 
  📷 Dashboard Preview
 
-"C:\Users\pandi\Pictures\Screenshots\Dashboard.png"
+"C:\Users\pandi\Pictures\Screenshots\Dashboard.png.png"
 
 
 📚 Conclusion
