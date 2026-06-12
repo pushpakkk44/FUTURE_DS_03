@@ -87,7 +87,7 @@ This dashboard helps organizations:
 
  📷 Dashboard Preview
 
-"C:\Users\pandi\Pictures\Screenshots\Dashboard.png.png"
+![Dashboard Preview] (https://github.com/pushpakkk44/FUTURE_DS_03/blob/main/Dashboard.png?raw=true)
 
 
 📚 Conclusion
